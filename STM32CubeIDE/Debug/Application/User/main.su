@@ -1,0 +1,7 @@
+main.c:621:6:StartDefaultTask	8	static
+main.c:577:6:LedBlinkTask	32	static
+main.c:213:6:SystemClock_Config	88	static
+main.c:109:5:main	104	static,ignoring_inline_asm
+main.c:603:5:_write	12	static,ignoring_inline_asm
+main.c:713:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:730:6:Error_Handler	0	static

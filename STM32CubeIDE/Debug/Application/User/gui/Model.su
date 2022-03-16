@@ -1,0 +1,4 @@
+Model.cpp:4:1:Model::Model()	0	static
+Model.cpp:9:6:void Model::tick()	4	static
+Model.cpp:22:5:int Model::get_temperature()	0	static
+Model.cpp:28:6:void Model::enable_temperature_read(bool)	0	static
